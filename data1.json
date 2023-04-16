@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "",
-            "network" : "fan",
+            "network" : "",
 
             "unity_game_id" : "",
             "unity_int" : "",
@@ -15,17 +15,17 @@
             "admob_native" : "",
             "admob_int" : "",
 
-            "yandex_ban" : "R-M-2119489-2",
-            "yandex_native" : "R-M-2119489-3",
-            "yandex_int" : "R-M-2119489-1",
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
 
             "iron_key": "",
             "iron_ban" : "",
             "iron_int" : "",
 
-            "max_ban" : "63625eca48cb04be",
-            "max_native" : "15d37e6c62aa03e2",
-            "max_int" : "67acfcdf01be77d5",
+            "max_ban" : "",
+            "max_native" : "",
+            "max_int" : "",
 
              "fan_ban": "",
             "fan_native": "",
@@ -78,27 +78,6 @@
             "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
             "link" : ""
         },{
-            "name" : "Cat Condo",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : ""
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : ""
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : ""
-        },{
             "name" : "Cat Escape",
             "title" : "Safety starts with understanding how developers.",
             "description" : "Data privacy and security practices may vary based on your use, region, and age.",
@@ -144,10 +123,6 @@
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
-        },
-        {
-            "name" : "",
             "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
         }
     ],
@@ -159,7 +134,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Start playing games here",
-            "img1" : "https://i.gifer.com/ZIZj.gif",
+            "img1" : "https://nasgho.github.io/gacha1/1.png",
             "img2" : "https://i.gifer.com/ZIZj.gif",
             "part1" : "Welcome to our app that has a nice content which you will like",
             "part2" : "You will find this online game and more games in our app in the section of Play "
@@ -181,9 +156,9 @@
             "url2" : "",
             "url2img" : "",
             "name" : "All games in one app",
-            "img1" : "https://i.gifer.com/HNol.gif",
+            "img1" : "https://nasgho.github.io/gacha1/2.png",
             "img2" : "https://i.gifer.com/HNol.gif",
-            "part1" : "enjoy our app firstly by seeing the wonderful memes and pictires that u ll like ",
+            "part1" : "enjoy our app firstly by seeing the wonderful memes and pictires that u ll like and clothes ideas ",
             "part2" : "our content is updated every week also our games we will  add game every week "
         },
         {
@@ -202,11 +177,11 @@
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : " Goal ",
-            "img1" : "https://i.gifer.com/9ymj.gif",
+            "name" : " new outfit comming soon ",
+            "img1" : "https://nasgho.github.io/gacha1/3.png",
             "img2" : "https://i.gifer.com/4Vl.gif",
             "part1" : " When you finish`playing go back to studies or work and dont waste your time. Enjoy your life",
-            "part2" : ""
+            "part2" : "Comming soon...."
         },
          {
             "url" : "",
@@ -214,7 +189,7 @@
             "url2" : "",
             "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
             "name" : "-_-first-_-",
-            "img1" : "https://i.gifer.com/4Vl.gif",
+            "img1" : "https://nasgho.github.io/gacha1/4.png",
             "img2" : "https://i.gifer.com/47tv.gif",
             "part1" : "welcome to the wonderful trend game in the world latto latto   ",
             "part2" : "HOW CAN I PLAY latto latto? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
@@ -252,29 +227,7 @@
             "part1" : "in the right you can find play button to play mora and more games casual sport race girls puzzle  etc ....",
             "part2" : "HOW CAN I PLAY Parkour WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
         },
-        
-        {
-            "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
-            "name" : "-_-fifth-_-",
-            "img1" : "https://i.gifer.com/Vg7.gif",
-            "img2" : "https://i.gifer.com/xt.gif",
-            "part1" : "you can press on play and select the game that you like and start playing ",
-            "part2" : "HOW CAN I PLAY games in this app? Playing mobile games on your phone in one place has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
-            "name" : "-_-sixth-_-",
-            "img1" : "https://i.gifer.com/xt.gif",
-            "img2" : "https://i.gifer.com/4V0V.gif",
-            "part1" : "All games in one place and one application",
-            "part2" : "Start playing and enjoy your free time back to studies or work after playing to have a productif day "
-        },
+       
         {
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
