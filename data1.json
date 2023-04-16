@@ -71,18 +71,18 @@
 
     "custom" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "title" : "Safety starts with understanding how developers.",
+            "name" : "",
+            "title" : "",
             "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "ico2" : "",
+            "ico" : "",
             "link" : ""
         },{
-            "name" : "Cat Escape",
+            "name" : "",
             "title" : "Safety starts with understanding how developers.",
             "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "ico2" : "",
+            "ico" : "",
             "link" : ""
         }
 
@@ -183,39 +183,7 @@
             "part1" : " When you finish`playing go back to studies or work and dont waste your time. Enjoy your life",
             "part2" : "Comming soon...."
         },
-         {
-            "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
-            "name" : "-_-first-_-",
-            "img1" : "https://nasgho.github.io/gacha1/4.png",
-            "img2" : "https://i.gifer.com/47tv.gif",
-            "part1" : "welcome to the wonderful trend game in the world latto latto   ",
-            "part2" : "HOW CAN I PLAY latto latto? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
-            "name" : "-_-second-_-",
-            "img1" : "https://i.gifer.com/ZN1T.gif",
-            "img2" : "https://i.gifer.com/37lt.gif",
-            "part1" : "tek tek: in a World of happiness and enjoy you can play latto lato tek tek game and also other games in our app.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
-            "name" : "-_-third-_-",
-            "img1" : "https://i.gifer.com/37lt.gif",
-            "img2" : "https://i.gifer.com/ZN1T.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY T ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
+      
         {
             "url" : "",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
