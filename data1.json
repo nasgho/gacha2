@@ -40,70 +40,30 @@
         {
             "name" : "Brookhaven vs Rainbow escape",
             "ico" : "https://play-lh.googleusercontent.com/z4xO4x19yjj5HJ1rTsOfbg2Equw4YX72ID49avVlE-8ZOiGWCBkwH4e0BZS5qRzXJkc=w240-h480-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zonegame.rainbowmerge.monsterescape"
-        },
-         {
-            "name" : "Garden of BanBaleena2",
-            "ico" : "https://play-lh.googleusercontent.com/kgkHqb0M7B9n1KbRzqmr6Ylc_ZSMHxl2hkJ40p3SJ_Q4166PEoc4k4RXv_eZs1K_8tdN=w240-h480-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.gardenofbanbalena.gartenofbanban3dhorrorgame"
-        },
-         {
-            "name" : "Princess Gachox : dress up",
-            "ico" : "https://play-lh.googleusercontent.com/LIt47JPMBddEGV8nK99p2F04Dize3SebsDbaVxWROUOobFEmYpRICHk0zIxeOOVSurM=w240-h480-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.dressingnoxanime.gashanoxplusns"
+            "link" : ""
         }
     ],
     
     "games" : [
         {
-            "name" : "Stair1 Race 3D ",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/StairRace3dTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=506&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "name" : "Stair1 Race ",
+            "ico" : "https://gspro.inw24.com/assets/upload/content/c47fc60304f5e762e05094da90e08b31.png",
+            "link" : "https://showcase.codethislab.com/games/rocking_wheels/",
             "cat" : "Overall",
-            "orientation" : "1"
-        },{
-            "name" : "Buz Tap1 Tip1 Dunk",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TapTapDunkTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/tap-tap-dunk/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f104144c-b96c-43be-98dd-da93b5ba53d8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=535&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Sports",
-            "orientation" : "1"
+            "orientation" : "0"
         },
-       {
-            "name" : "Bird Rosh",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BirdyRushTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/b/birdy-rush/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=787f3d68-aff5-42f5-845c-7355950d8d0f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=555&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
-            "orientation" : "1"
+         {
+            "name" : "Gacha outfit Club ",
+            "ico" : "https://play-lh.googleusercontent.com/LIt47JPMBddEGV8nK99p2F04Dize3SebsDbaVxWROUOobFEmYpRICHk0zIxeOOVSurM=s64-rw",
+            "link" : "https://scratch.mit.edu/projects/343602954/embed",
+            "cat" : "Overall",
+            "orientation" : "0"
         },
         {
-            "name" : "Buz Tablie Tennis W0rld Tour",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/table-tennis-world-tour/v370/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8c8e5fc6-7e38-47ab-96eb-150276e79ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=493&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Soccer",
-            "orientation" : "1"
-        },{
-            "name" : "Billiards Classic",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/v250/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=540&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Multi-players",
-            "orientation" : "0"
-        },{
-            "name" : "Crowd1 Ruon 3d",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/_CrowdRun3dTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=541&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "HyperCasual",
-            "orientation" : "0"
-        },{
-            "name" : "World Cup Penalty",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenalty_2018Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty-2018/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=812dd47f-13c0-4a03-8678-00cfab89b971&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=544&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Sport",
-            "orientation" : "0"
-        },{
-            "name" : "Advanture1 Driver",
+            "name" : "Gacha Escape home",
             "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=542&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Cars",
+            "link" : "https://granny-and-grandpa-4-online.jimrush.repl.co/",
+            "cat" : "Role Play",
             "orientation" : "0"
         }
 
@@ -151,20 +111,20 @@
 
     "wallpapers" : [
         {
-            "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+            "name" : "Gachi",
+            "img" : "https://nasgho.github.io/gacha1/5.png"
         },
         {
             "name" : "",
             "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
         },
         {
-            "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "name" : "dress 3",
+            "img" : "https://nasgho.github.io/gacha1/1.png"
         },
         {
-            "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "name" : "dress 4",
+            "img" : "https://nasgho.github.io/gacha1/2.png"
         },
         {
             "name" : "",
@@ -172,7 +132,7 @@
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://nasgho.github.io/gacha1/4.png"
         },
         {
             "name" : "",
@@ -180,7 +140,7 @@
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://nasgho.github.io/gacha1/3.png"
         },
         {
             "name" : "",
@@ -209,7 +169,7 @@
             "urlimg" : "",
             "url2" : "",
             "url2img" : "",
-            "name" : "Welcome to brrokhaven",
+            "name" : "Welcome to gacha outfit ideas",
             "img1" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DriftDudesTeaser.jpg?v=0.2-53403d9a",
             "img2" : "https://i.gifer.com/ZIZj.gif",
             "part1" : "Welcome Again to our app you will find also wallpapers and more game that will be updated every week",
