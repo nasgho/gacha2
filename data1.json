@@ -5,7 +5,7 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "",
-            "network" : "",
+            "network" : "fan",
 
             "unity_game_id" : "",
             "unity_int" : "",
